@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   
   <div> 
 
-  <a href="www.linkedin.com/in/tarcísio-josé-de-amorim-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://br.linkedin.com/in/tarc%C3%ADsio-jos%C3%A9-de-amorim-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
  
