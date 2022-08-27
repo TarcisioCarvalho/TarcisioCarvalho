@@ -7,12 +7,12 @@
 
 - 🔭 I’m currently working on [coffe-delivery](https://coffe-delivery-sandy.vercel.app/)
 
-- 🌱 I’m currently learning **React,Typescript e c#**
+- 🌱 I’m currently learning **React,Typescript and c#**
 
 - 💬 Ask me about **React**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/tarcisio-jose-de-amorim-carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tarcísio-josé-de-amorim-carvalho-80b912100/" height="30" width="40" /></a>
 </p>
 
