@@ -1,26 +1,52 @@
-<h1 align="center">Olá 👋, Eu sou Tarcísio Carvalho</h1>
-<h3 align="center">Apaixonado por desenvolvimento web. Sonho me tornar full stack. Atualmente fazendo projetos em React e estudando C# para o backend.</h3>
+# Olá, me chamo [Tarcísio José de Amorim Carvalho](www.linkedin.com/in/tarcisio-jose-de-amorim-carvalho)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarcisiocarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="tarcisiocarvalho" /> </p>
+## Seja Bem Vindo(a)
+### Um pouco sobre min
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarcisiocarvalho" alt="tarcisiocarvalho" /></a> </p>
+Tenho 31 anos, sou desenvolvedor full-stack. Apaixonado pela área estou sempre estudando e desenvolvendo projetos pessoais com várias tecnologias.
 
-- 🔭 I’m currently working on [nlw-copa](https://github.com/TarcisioCarvalho/nlw_Copa)
+Acredito piamente que Disciplina Vence a Motivação. Por Isso faço código todos os dias (CTD).
 
-- 🌱 I’m currently learning **React,Typescript and c#**
+Meus hobbies são jiujitsu , academia, assistir futebol e jogar magic.
 
-- 💬 Ask me about **React**
+Também sou muito fã de filmes/séries medievais.
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/tarcisio-jose-de-amorim-carvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tarcísio-josé-de-amorim-carvalho-80b912100/" height="30" width="40" /></a>
+## Sobre minha experiência com programação
+Durante a *graduação* de 2010 a 2016 aprendi os fundamentos da programação: Lógica, Orientação a Objetos, Estrutura de Dados, Banco de dados, Metodologias para Desenvolvimento de Softwares.
+Mas foi em 2021 que comecei minha jornada com desenvolvimento web, participei do hiring coders 2021 onde pude aprender muito sobre a profissão, hard skils(Front e Back-End), Softskils(Linkedin, comunicação e etc..). 
+Deste então venho me aprimorando, investindo no conhecimento, praticando e buscando me tornar um dev melhor a cada dia, ainda eu estou no começo da jornada mas já evolui muito!!
+## Sobre minha experiência profissional
+Trabalho há um ano com desenvolvimento desktop utilizando a linguagem Powerbuilder juntamente com o banco de dados da oracle, participo de uma squad onde utilizamos o SCRUM (Metodologias Agéis). A Experiência tem sido incrível, o aprendizado é constante e todos os dias tem um desafio diferente.
+
+## Minhas Linguagens Preferidas são :
+---
+<p align = "center">
+<a><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="32" height="32"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/></a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/> </a>
+ </p>
+ 
+
+ ## Stack que Planejo Trabalhar :
+ ---
+<p align = "center">
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Também Tenho Conhecimento em :
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarcisiocarvalho&show_icons=true&locale=en&layout=compact" alt="tarcisiocarvalho" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarcisiocarvalho&show_icons=true&locale=en" alt="tarcisiocarvalho" /></p>
+## :chart_with_upwards_trend: Minhas estatísticas
+---
+ <div align='center'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TarcisioCarvalho&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarcisioCarvalho&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisiocarvalho&" alt="tarcisiocarvalho" /></p>
+## Dados
+---
+<div align='center'>
+<a height="150em" href="http://www.github.com/TarcisioCarvalho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TarcisioCarvalho&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>
